@@ -20,6 +20,7 @@ Create Exclusive Wallets for your various Travels
  Create New Mini-Wallets for your travels abroad by the help of फ़ौरनPay. Transfer Money from your bank account to mini-wallets and get an exchange rate-converted
  amount reflected in your mini-wallet, so that you can remain at ease with your worries of financial spending abroad, as well as money conversion, in advance. You can
  also make this wallet as your primary wallet during your foreign stay to make instant cashless payments.
+ 
 Instant KYC for Bank Account linking and Instant integration of UPI payment for your transactions
  You can complete your KYC on फ़ौरनPay app in less than 1 min. Just verify your Aadhaar number with OTP from UIDAI and enter a few profile details, that’s it! 
  There are no charges for KYC. It is completely FREE.
