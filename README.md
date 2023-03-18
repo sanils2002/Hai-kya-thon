@@ -26,10 +26,8 @@ Instant KYC for Bank Account linking and Instant integration of UPI payment for 
  There are no charges for KYC. It is completely FREE.
  KYC requires Address proof of customer. You can do this verification using Aadhaar on फ़ौरनPay app. However if no mobile is linked to your Aadhaar a फ़ौरनPay agent
  will need to do in-person verification of your Aadhaar or any other Govt id to do with KYC.
-
-
-
-
+ 
+ ![Free_Sample_By_Wix-removebg-preview](https://user-images.githubusercontent.com/81878805/226090872-de8f5b67-7735-4b1b-830d-c700326f391f.png)
 
 
 Developed by :- 
