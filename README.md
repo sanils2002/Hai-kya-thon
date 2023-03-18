@@ -1,5 +1,4 @@
 ![Landing-removebg-preview](https://user-images.githubusercontent.com/81878805/226093449-f2523b4f-438c-4ff9-9dbb-cba13497b3c7.png)
-फ़ौरनPay
 
 Product Brochure
 April 04, 2023
