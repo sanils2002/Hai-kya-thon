@@ -1,4 +1,5 @@
 फ़ौरनPay
+![Landing-removebg-preview](https://user-images.githubusercontent.com/81878805/226093449-f2523b4f-438c-4ff9-9dbb-cba13497b3c7.png)
 
 Product Brochure
 April 04, 2023
@@ -25,8 +26,6 @@ Instant KYC for Bank Account linking and Instant integration of UPI payment for 
  You can complete your KYC on फ़ौरनPay app in less than 1 min. Just verify your Aadhaar number with OTP from UIDAI and enter a few profile details, that’s it! 
  There are no charges for KYC. It is completely FREE.
  KYC requires Address proof of customer. You can do this verification using Aadhaar on फ़ौरनPay app. However if no mobile is linked to your Aadhaar a फ़ौरनPay agent will need to do in-person verification of your Aadhaar or any other Govt id to do with KYC.
- 
- ![Landing-removebg-preview](https://user-images.githubusercontent.com/81878805/226093449-f2523b4f-438c-4ff9-9dbb-cba13497b3c7.png)
 
 
 Developed by :- 
