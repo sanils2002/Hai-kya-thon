@@ -1,4 +1,4 @@
-![Landing-removebg-preview](https://user-images.githubusercontent.com/81878805/226093449-f2523b4f-438c-4ff9-9dbb-cba13497b3c7.png)
+![3](https://user-images.githubusercontent.com/81878805/228529793-346b73b1-067e-48a8-9278-fe86e2daa1d3.png)
 
 Product Brochure
 April 04, 2023
