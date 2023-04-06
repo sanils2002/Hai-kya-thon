@@ -1,4 +1,4 @@
-![3](https://user-images.githubusercontent.com/81878805/228529793-346b73b1-067e-48a8-9278-fe86e2daa1d3.png)
+![Illustration_3_logo_cropped__1_-removebg-preview](https://user-images.githubusercontent.com/81878805/230466110-35428561-dd2b-4946-b936-ba220b2ca84d.png)
 
 Product Brochure
 April 04, 2023
